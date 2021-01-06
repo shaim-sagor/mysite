@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(41, 41, 41);
+    font-family: 'Oswald', sans-serif;
+    font-size: large;
+
+}
+h1{
+    color: rgb(153, 16, 107);
+    font-size: 50px;
+}
+#welColour{
+    color: rgb(179, 168, 15);
+
+
+}
+
+.FirstTableWith{
+     width: 50%;
+}
